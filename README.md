@@ -62,33 +62,6 @@ Esta API utiliza JWT (JSON Web Token) para autenticação. Para acessar as rotas
     - `POST /login`
 3. Use o token JWT nas suas requisições como Bearer Token.
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-biowatch/
-├── app/
-│   ├── controllers/
-│   │   └── auth_controller.py
-│   │   └── profile_controller.py
-│   ├── models/
-│   │   └── user_model.py
-│   │   └── instagram_profile.py
-│   │   └── monitoring_history.py
-│   ├── repositories/
-│   │   └── auth_repository.py
-│   │   └── profile_repository.py
-│   ├── schemas/
-│   │   └── auth_schema.py
-│   │   └── profile_schema.py
-│   ├── main.py
-│   ├── database.py
-│   └── config.py
-├── Dockerfile
-├── .env.example
-├── requirements.txt
-└── README.md
-```
-
 
 ## 🧪 Testes
 

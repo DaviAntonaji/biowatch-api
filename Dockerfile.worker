@@ -1,0 +1,14 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+# Adicionando o diretório raiz ao PYTHONPATH
+ENV PYTHONPATH="${PYTHONPATH}:/app"
+
+CMD ["python", "worker/bioworker.py"]

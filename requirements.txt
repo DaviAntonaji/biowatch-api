@@ -8,3 +8,4 @@ pymysql
 passlib[bcrypt]
 python-jose[cryptography]
 python-multipart
+instaloader

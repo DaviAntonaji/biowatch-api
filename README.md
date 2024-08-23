@@ -2,7 +2,7 @@
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95.0-green?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)](https://www.python.org/)
-[![Docker](https://img.shields.io/badge/Docker-Enabled-blue?style=flat&logo=docker)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-Enabled-blue?logo=docker&style=flat)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Enabled-blue?style=flat&logo=mysql)](https://www.mysql.com/)
 
 🚀 **BioWatch** é uma API poderosa que permite que você monitore perfis do Instagram, rastreando mudanças nas bios e verificando a presença de textos específicos. Ideal para quem precisa de controle total sobre o conteúdo em perfis do Instagram!

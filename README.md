@@ -16,7 +16,7 @@
 - 🛠️ **Integração com MySQL** para armazenamento persistente.
 
 ## 🛠️ Instalação e Configuração
----
+
 ### 📋 Pré-requisitos
 
 Certifique-se de ter instalado:
